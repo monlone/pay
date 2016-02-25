@@ -1,0 +1,13 @@
+{
+    "name": "monlone/pay",
+    "description": "支付网关SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "monlone",
+            "email": "monlone@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
